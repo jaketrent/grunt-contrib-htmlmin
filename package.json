@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "html-minifier": "~0.4.5",
+    "html-minifier": "git://github.com/kangax/html-minifier.git",
     "grunt-lib-contrib": "~0.5.2"
   },
   "devDependencies": {
